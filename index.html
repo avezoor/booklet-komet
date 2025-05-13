@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en" class="dark-mode">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap"
+            rel="stylesheet"
+        />
+        <title id="page-title">Open Recruitment Panitia KОМЕТ</title>
+
+        <!-- Favicon -->
+        <link rel="icon" type="image/x-icon" href="img/favicon.ico" />
+
+        <!-- Config -->
+        <script type="module">
+            import siteConfig from "./js/config.js";
+            document.getElementById("page-title").textContent =
+                siteConfig.title;
+        </script>
+
+        <!-- Styles -->
+        <link rel="stylesheet" href="css/styles.css" />
+
+        <!-- Font Awesome for icons -->
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        />
+        <!-- MathJax Configuration -->
+        <script>
+            window.MathJax = {
+                startup: {
+                    typeset: false,
+                },
+                tex: {
+                    inlineMath: [["$", "$"]],
+                    displayMath: [["$$", "$$"]],
+                },
+            };
+        </script>
+
+        <!-- Marked.js for Markdown parsing -->
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+        <!-- MathJax for LaTeX rendering -->
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+        <script
+            id="MathJax-script"
+            async
+            src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+        ></script>
+
+    </head>
+    <body>
+        <div class="loading-screen">
+            <i class="fas fa-gear loading-gear"></i>
+        </div>
+        <div class="container">
+            <header>
+                <a id="pdf-link" target="_blank" class="download-btn">
+                    <i></i> Register
+                </a>
+                <script type="module">
+                    import siteConfig from './js/config.js';
+                    document.getElementById('pdf-link').href = siteConfig.pdf.link;
+                </script>
+                <div id="current-date" class="current-date"></div>
+                <button id="theme-toggle" class="theme-toggle">
+                    <i class="fas fa-moon"></i>
+                </button>
+            </header>
+
+            <!-- Slider container -->
+            <div class="slider-container">
+                <div id="slides" class="slides"></div>
+            </div>
+
+            <!-- Footer with social links -->
+            <footer>
+
+                <div class="social-links" id="social-links">
+                    <!-- Social links will be populated by JavaScript -->
+                </div>
+                <script type="module">
+                    import siteConfig from "./js/config.js";
+                    const socialLinksDiv =
+                        document.getElementById("social-links");
+
+                    Object.entries(siteConfig.social).forEach(
+                        ([platform, data]) => {
+                            if (platform !== "globe") {
+                                const link = document.createElement("a");
+                                link.href = data.url;
+                                link.target = "_blank";
+                                link.title = data.title;
+                                link.innerHTML = `<i class="fab fa-${platform}"></i>`;
+                                socialLinksDiv.appendChild(link);
+                            }
+                        },
+                    );
+                </script>
+            <button id="prev" class="nav-btn-footer nav-btn-left">
+                <i class="fas fa-chevron-left"></i>
+            </button>
+            <button id="next" class="nav-btn-footer nav-btn-right">
+                <i class="fas fa-chevron-right"></i>
+            </button>
+            </footer>
+        </div>
+
+        <!-- Custom Scripts -->
+        <script src="js/countdown.js"></script>
+        <script src="js/script.js"></script>
+    </body>
+</html>
