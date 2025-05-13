@@ -1,10 +1,9 @@
-# Guidebook KOMET (Kompetisi Matematika) Nasional
-
 <div class="komet-cover">
+    <p>Himpunan Mahasiswa Program Studi "Integral" Matematika
+Universitas Islam Negeri Maulana Malik Ibrahim Malang
+Proudly Present</p>
     <div>
-        <img src="/img/logo1.png" alt="Logo UIN">
-        <img src="/img/logo2.png" alt="Logo HMPS">
-        <img src="/img/logo3.png" alt="Logo KOMET">
+        <img src="/img/logo.png">
     </div>
     <p class="cover-update-date">Update: April 5, 2025</p>
 </div>
