@@ -1,5 +1,4 @@
-# Countdown to Launch
-## Time Remaining Until Launch
+<h1 style="text-align: center;">Countdown to the Close of Registration</h1>
 
 <div id="countdown-timer" class="countdown-display">
   <!-- Countdown will be inserted here by JavaScript -->

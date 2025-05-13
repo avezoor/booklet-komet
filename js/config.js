@@ -2,8 +2,8 @@ const siteConfig = {
     title: "Open Recruitment Panitia KОМЕТ",
     favicon: "img/favicon.ico",
     countdown: {
-        targetDate: "2025-11-30T00:00:00",
-        endMessage: "Pendaftaran Telah Ditutup",
+        targetDate: "2025-05-30T00:00:00",
+        endMessage: "Time Is Up, See You Next Time",
         units: {
             days: "Hari",
             hours: "Jam",

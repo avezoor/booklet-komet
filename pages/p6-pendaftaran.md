@@ -1,17 +1,26 @@
-## Timeline Olimpiade KOMET XXIV
+<h1 style="text-align: center;">ARE YOU READY TO BE ONE OF US???</h1>
 
-| **Kegiatan**                 | **Tanggal**                    | **Keterangan**                                |
-|------------------------------|--------------------------------|----------------------------------------------|
-| Pembukaan Pendaftaran        | 12 Agustus 2024               | Gelombang pertama dimulai.                   |
-| Penutupan Gelombang Pertama  | 15 September 2024             | Penutupan pendaftaran gelombang pertama.     |
-| Pembukaan Gelombang Kedua    | 16 September 2024             | Gelombang kedua dimulai.                     |
-| Penutupan Pendaftaran        | 4 November 2024               | Penutupan gelombang kedua.                   |
-| Tahap Penyisihan             | 10 November 2024              | Dilaksanakan secara daring.                  |
-| Pengumuman Lolos Penyisihan  | 13 November 2024              | Peserta yang lolos ke semifinal diumumkan.   |
-| Tahap Semifinal              | 18 November 2024              | Dilaksanakan secara luring.                  |
-| Tahap Final                  | 19 November 2024              | Dilaksanakan secara luring.                  |
-| Pengumuman Pemenang          | 19 November 2024              | Penghargaan untuk pemenang kompetisi.        |
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://bit.ly/OpenRecruitmentPanitiaKOMETXXIV" target="_blank" style="
+    display: inline-block;
+    background-color: #1E90FF;
+    color: white;
+    padding: 14px 28px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    text-decoration: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  ">
+    Daftarkan Dirimu Sekarang
+  </a>
+</div>
 
-**Catatan**: 
-- Semua tanggal dapat berubah sesuai dengan kebijakan panitia.
-- Informasi lebih lanjut akan diumumkan melalui situs resmi dan media sosial.
+<p style="text-align: center; font-size: 18px; font-weight: 600;">OR</p>
+
+<div style="text-align: center; margin-top: 20px;">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https://bit.ly/OpenRecruitmentPanitiaKOMETXXIV" alt="QR Code Pendaftaran">
+  <p style="font-size: 14px; color: #fff;">Scan QR untuk daftar melalui HP</p>
+
+<p style="text-align: center; font-size: 18px; font-weight: 600;">COME AND JOIN US!!!</p>
+</div>

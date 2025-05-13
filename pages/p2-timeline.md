@@ -1,4 +1,4 @@
-# TIMELINE OPEN RECRUITMENT PANITIA KОМЕТ
+<h1 style="text-align: center;">TIMELINE OPEN RECRUITMENT</h1>
 
 | **Tahapan**                 | **Timeline**                    |
 |------------------------------|--------------------------------|

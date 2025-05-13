@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">BOOKLET</h1>
-<h3 style="text-align: center;">Open Recruitment Kepanitian KОМЕТ XXV</h3>
+<h2 style="text-align: center;">Open Recruitment Kepanitiaan KОМЕТ XXV</h2>
 <div class="komet-cover">
     <p style="text-align: center;">
         Himpunan Mahasiswa Program Studi "Integral" Matematika<br>
