@@ -1,7 +1,9 @@
 <div class="komet-cover">
-    <p>Himpunan Mahasiswa Program Studi "Integral" Matematika
-Universitas Islam Negeri Maulana Malik Ibrahim Malang
-Proudly Present</p>
+    <p style="text-align: center;">
+        Himpunan Mahasiswa Program Studi "Integral" Matematika<br>
+        Universitas Islam Negeri Maulana Malik Ibrahim Malang<br>
+        <em>Proudly Present</em>
+    </p>
     <div>
         <img src="/img/logo.png">
     </div>
