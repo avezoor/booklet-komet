@@ -16,7 +16,7 @@
 <div style="text-align: center; margin-top: 15px;">
   <a href="https://wa.me/6285779409420" target="_blank" style="
     display: inline-block;
-    background-color: #25D366;
+    background: linear-gradient(135deg, #25D366, #128C7E);
     color: white;
     padding: 12px 24px;
     font-size: 16px;
@@ -28,3 +28,4 @@
     <i class="fab fa-whatsapp"></i> Hubungi via WhatsApp
   </a>
 </div>
+

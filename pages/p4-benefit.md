@@ -1,10 +1,12 @@
 <h1 style="text-align: center;">RANGKAIAN KEGIATAN</h1>
 
-<h3 style="text-align: center;">Olimpiade Matematika</h3>
+<h2 style="text-align: center;">Olimpiade Matematika</h2>
+<p style="text-align: center;">
+    Olimpiade berskala <strong>nasional</strong> untuk seluruh pelajar tingkat <strong>SMA/SMK/MA/MAK/Sederajat</strong>.
+</p>
 
-Olimpiade berskala **nasional** untuk seluruh pelajar tingkat **SMA/SMK/MA/MAK/Sederajat**.
 
-<h1 style="text-align: center;">BENEFIT</h1>
+<h2 style="text-align: center;">BENEFIT</h2>
 
 1. 🌐 Memperluas Relasi  
 2. 📈 Personal Development  

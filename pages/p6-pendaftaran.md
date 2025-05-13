@@ -3,7 +3,7 @@
 <div style="text-align: center; margin: 20px 0;">
   <a href="https://bit.ly/OpenRecruitmentPanitiaKOMETXXIV" target="_blank" style="
     display: inline-block;
-    background-color: #1E90FF;
+    background: linear-gradient(135deg, #1E90FF, #007BFF);
     color: white;
     padding: 14px 28px;
     font-size: 16px;

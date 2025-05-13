@@ -32,6 +32,10 @@ const siteConfig = {
             url: "https://github.com/ave.zoor",
             title: "GitHub",
         },
+        website: {
+            url: "https://github.com/ave.zoor",
+            title: "Website",
+        },
     },
 };
 

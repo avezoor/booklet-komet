@@ -61,8 +61,8 @@ html {
     /* Modern UI effects */
     --card-radius: 12px;
     --button-radius: 8px;
-    --accent-color: #8b5cf6; /* Purple accent */
-    --accent-hover: #7c3aed;
+    --accent-color: #55a2c0;
+    --accent-hover: #06658a;
 }
 
 body {
@@ -310,13 +310,14 @@ footer {
 
 /* Markdown Content Styling */
 .slide h1 {
-    font-size: 2.5rem;
-    margin-bottom: 20px;
-    background: linear-gradient(135deg, #6366f1, #8b5cf6, #d946ef);
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
-    font-weight: 800;
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  background: linear-gradient(135deg, #63e0f1, #288bdb, #007ab3);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  font-weight: 800;
+  animation: floatUpDown 3s ease-in-out infinite, gradientMove 6s ease infinite;
 }
 
 .slide h2 {
@@ -707,4 +708,22 @@ mjx-container {
     .nav-btn-footer.nav-btn-right {
         right: 10px; 
     }
+}
+
+@keyframes gradientMove {
+  0% {
+    background-position: 0% 50%;
+  }
+  100% {
+    background-position: 100% 50%;
+  }
+}
+
+@keyframes floatUpDown {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
 }

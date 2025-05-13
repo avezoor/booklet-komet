@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">DIVISI DAN JOBDESC</h1>
 
-<h3 style="text-align: center;">EVENT CONKEPTOR</h3>
+<h2 style="text-align: center;">EVENT CONKEPTOR</h2>
 
 Bertanggung jawab mengonsepkan dan mengatur segala hal yang
 berkaitan dengan rangkaian kegiatan. Berikut rincian mengenai
