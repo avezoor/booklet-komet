@@ -39,12 +39,12 @@ document.addEventListener("DOMContentLoaded", function () {
     // Slide configuration
     const slideFiles = [
         "src/cover.md",
-        "pages/p1-deskripsi-umum.md",
+        "pages/p1-gamabaran-umum.md",
         "pages/p2-timeline.md",
         "pages/p3-ketentuan.md",
         "pages/p4-benefit.md",
         "pages/p5-divisi.md",
-        "pages/pendaftaran.md",
+        "pages/p6-pendaftaran.md",
         "pages/p7-contact-person.md",
         "src/launch.md"
     ];
