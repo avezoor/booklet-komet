@@ -1,10 +1,9 @@
 <h1 style="text-align: center;">BOOKLET</h1>
-<h3 style="text-align: center;">Open Recruitment Panitia KОМЕТ XXIV</h3>
+<h3 style="text-align: center;">Open Recruitment Kepanitian KОМЕТ XXV</h3>
 <div class="komet-cover">
     <p style="text-align: center;">
         Himpunan Mahasiswa Program Studi "Integral" Matematika<br>
         Universitas Islam Negeri Maulana Malik Ibrahim Malang<br>
-        <em>Proudly Present</em>
     </p>
     <div>
         <img src="/img/logo.png">
