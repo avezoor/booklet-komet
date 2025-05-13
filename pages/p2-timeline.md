@@ -1,4 +1,4 @@
-## TIMELINE OPEN RECRUITMENT PANITIA KОМЕТ
+# TIMELINE OPEN RECRUITMENT PANITIA KОМЕТ
 
 | **Tahapan**                 | **Timeline**                    |
 |------------------------------|--------------------------------|

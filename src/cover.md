@@ -1,3 +1,5 @@
+<h1 style="text-align: center;">BOOKLET</h1>
+<h3 style="text-align: center;">Open Recruitment Panitia KОМЕТ XXIV</h3>
 <div class="komet-cover">
     <p style="text-align: center;">
         Himpunan Mahasiswa Program Studi "Integral" Matematika<br>
@@ -7,7 +9,7 @@
     <div>
         <img src="/img/logo.png">
     </div>
-    <p class="cover-update-date">Update: April 5, 2025</p>
+    <p class="cover-update-date">Update: 13 Mei 2025</p>
 </div>
 
 <style>

@@ -1,2 +1,5 @@
 # APA ITU KOMET XXV?
-KOMЕT (Kompetisi Matematika) merupakan kompetisi berskala nasional dalam bidang matematika yang diadakan oleh HMPS "Integral" Matematika UIN Maulana Malik Ibrahim Malang. KOMET ini dapat diikuti oleh pelajar SMA/SMK/MA/MAK/Sederajat dan dikemas dengan beberapa rangkaian kegiatan seperti Olimpiade Matematika dan dilengkapi Seminar Nasional pada puncaknya.
+<p style="text-align: justify;">
+    <strong>KOMET (Kompetisi Matematika)</strong> merupakan kompetisi berskala nasional di bidang matematika yang diselenggarakan oleh HMPS "Integral" Matematika, Universitas Islam Negeri Maulana Malik Ibrahim Malang.
+    Kompetisi ini ditujukan bagi siswa/siswi tingkat SMA/SMK/MA/MAK atau sederajat, dan dikemas dalam rangkaian kegiatan menarik seperti Olimpiade Matematika serta Seminar Nasional yang menjadi puncak acara.
+</p>

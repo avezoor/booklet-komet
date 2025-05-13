@@ -3,7 +3,7 @@ const siteConfig = {
     favicon: "img/favicon.ico",
     countdown: {
         targetDate: "2025-11-30T00:00:00",
-        endMessage: "It's Competition Time",
+        endMessage: "Pendaftaran Telah Ditutup",
         units: {
             days: "Hari",
             hours: "Jam",
