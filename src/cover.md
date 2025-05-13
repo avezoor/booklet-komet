@@ -2,7 +2,9 @@
 
 <div class="komet-cover">
     <div>
-        <img src="/img/maskot.png" alt="Logo KOMET">
+        <img src="/img/logo1.png" alt="Logo UIN">
+        <img src="/img/logo2.png" alt="Logo HMPS">
+        <img src="/img/logo3.png" alt="Logo KOMET">
     </div>
     <p class="cover-update-date">Update: April 5, 2025</p>
 </div>

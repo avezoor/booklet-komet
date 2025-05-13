@@ -1,5 +1,5 @@
 const siteConfig = {
-    title: "Guidebook KOMET",
+    title: "Open Recruitment Panitia KОМЕТ",
     favicon: "img/favicon.ico",
     countdown: {
         targetDate: "2025-11-30T00:00:00",
@@ -12,8 +12,8 @@ const siteConfig = {
         },
     },
     pdf: {
-        link: "https://drive.google.com/file/d/zzzzz",
-        label: "PDF",
+        link: "",
+        label: "REGISTER",
     },
     social: {
         instagram: {

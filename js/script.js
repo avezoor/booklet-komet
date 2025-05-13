@@ -40,18 +40,12 @@ document.addEventListener("DOMContentLoaded", function () {
     const slideFiles = [
         "src/cover.md",
         "pages/p1-deskripsi-umum.md",
-        "pages/p2-ketentuan-umum.md",
-        "pages/p3-ketentuan-khusus.md",
-        "pages/p4-mekanisme-pendaftaran.md",
-        "pages/p5-timeline.md",
-        "pages/p6-fasilitas.md",
-        "pages/p7-petunjuk-teknis-tahap-penyisihan.md",
-        "pages/p8-petunjuk-teknis-tahap-semifinal.md",
-        "pages/p9-petunjuk-teknis-tahap-final.md",
-        "pages/p10-larangan-peserta.md",
-        "pages/p11-hadiah.md",
-        "pages/p12-kisi-kisi.md",
-        "pages/p13-contact-person.md",
+        "pages/p2-timeline.md",
+        "pages/p3-ketentuan.md",
+        "pages/p4-benefit.md",
+        "pages/p5-divisi.md",
+        "pages/pendaftaran.md",
+        "pages/p7-contact-person.md",
         "src/launch.md"
     ];
 
