@@ -1,18 +1,18 @@
-<h1 style="text-align: center;">DIVISI DAN JOBDESC</h1>
+<h1 style="text-align: center;">ACADEMIC TEAM (A-Team)</h1>
 
-<h2 style="text-align: center;">EVENT CONKEPTOR</h2>
+Bertanggung jawab atas pengawasan mutu soal, pelaksanaan teknis olimpiade (*alur olimpiade*, *technical meeting*, sistem pengerjaan seperti *Zoom* dan *Sibiti*), serta menjamin integritas dan kualitas akademis acara secara menyeluruh. Berikut rincian tugas dari divisi *A-Team*:
 
-Bertanggung jawab mengonsepkan dan mengatur segala hal yang
-berkaitan dengan rangkaian kegiatan. Berikut rincian mengenai
-jobdesc dari divisi Event Conceptor.
+1. Dapat bertanggung jawab dan berkomitmen tinggi.  
+2. Mengkaji dan mengadaptasi soal-soal olimpiade agar sesuai dengan kurikulum dan tujuan kompetisi, serta menyesuaikan tingkat kesulitan sesuai tahapan.  
+3. Menjamin kualitas dan validitas soal dan jawaban dari segi akademis dan teknis, seperti menyusun kisi-kisi, kunci jawaban dan pedoman penilaian.  
+4. Menentukan dan menghubungi juri, serta mempersiapkan alat penilaian (*G-Form*, *Excel*, dsb).  
+5. Mengelola pelaksanaan olimpiade secara penuh, termasuk *briefing teknis* kepada peserta dan panitia, menyusun skema teknis pelaksanaan (*alur peserta*, durasi sesi, sistem penilaian, cadangan soal), serta pengawasan langsung saat lomba berlangsung.  
+6. Bekerjasama dengan divisi *Vimed* untuk bertanggung jawab atas penggunaan *system digital* lomba, termasuk pengelolaan *Sibiti*, *setup teknis* di *Zoom*, juga *troubleshooting teknis* saat lomba berlangsung.  
+7. Bertanggung jawab dalam peminjaman tempat pelaksanaan olimpiade, termasuk mengisi *logbook* kegiatan dan menyusun *berita acara* pelaksanaan olimpiade.  
+8. Menyusun kebutuhan anggaran dan *timeline* kegiatan divisi dengan rinci, serta mengelola pembaruan sesuai kebutuhan acara.  
+9. Berkoordinasi secara aktif dengan Ketua Pelaksana, *SC (Steering Committee)*, dan *CO (Coordinator)* divisi untuk menjamin kelancaran acara.  
 
-1. Dapat bertanggung jawab dan berkomitmen tinggi.
-2. Membuat konsep acara (tema, tempat pelaksanaan, rundown, jargon) secara detail dan spesifik, memuat waktu, acara, personilin charge, perlengkapan, dan tempat.
-3. Membuat TOR (Term of Reference) pemateri seminar.
-4. Berkoordinasi dengan seluruh divisi terkait penentuan tugas acara.
-5. Mengatur dan mengondisikan jalannya acara.
-6. Mencari dan menetapkan pengisi maupun pemateri acara.
-7. Membentuk LO (Liaison Officer) dan pengawas yang bertugas mendampingi dan mengawasi peserta olimpiade mendekati hari H hingga hari Panitiaan kegiatan.
-8. Membuat dan merincikan dana keperluan divisi serta timeline kegiatan divisi.
-9. Bertanggung jawab kepada Ketua Panitia dan berkoordinasi dengan SC terkait.
-10. Bertanggung jawab terhadap CO divisi.
+**Subdivisi tersedia:**
+- *Validasi Soal*  
+- *Teknis Pelaksanaan*  
+- *Pengawasan dan Penjurian*

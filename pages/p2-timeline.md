@@ -2,6 +2,6 @@
 
 | **Tahapan**                 | **Timeline**                    |
 |------------------------------|--------------------------------|
-| Pembukaan Pendaftaran (Registration)        | 12 Agustus 2024               |
-| Pelaksanaan Interview | 15 September 2024             |
-| Pengumuman Panitia | 15 September 2024             |
+| Pembukaan Pendaftaran (Registration)        | 3 - 7 Juni 2025               |
+| Pelaksanaan Interview | 8 - 9 Juni 2025             |
+| Pengumuman Panitia | 10 Juni 2025             |

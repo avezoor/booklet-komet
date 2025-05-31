@@ -1,5 +1,7 @@
 <h1 style="text-align: center;">CONTACT PERSON</h1>
-
+<div style="text-align: center;">
+  <img src="img/logo.png">
+</div>
 <div style="text-align: center; margin-bottom: 10px;">
   <img src="img/cp.jpg" alt="Foto Profile" style="
     width: 120px;
@@ -7,14 +9,12 @@
     border-radius: 50%;
     object-fit: cover;
   ">
+  <p style="text-align: center; font-size: 18px; font-weight: 600;">
+  Imam Syafi'i<br>
+  </p>
 </div>
-
-<p style="text-align: center; font-size: 18px; font-weight: 600;">
-  IMAM SYAFI'I<br>
-</p>
-
-<div style="text-align: center; margin-top: 15px;">
-  <a href="https://wa.me/6285779409420" target="_blank" style="
+<div style="text-align: center; margin-top: 5px;">
+  <a href="https://wa.me/6282143035442" target="_blank" style="
     display: inline-block;
     background: linear-gradient(135deg, #25D366, #128C7E);
     color: white;

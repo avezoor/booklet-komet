@@ -2,8 +2,8 @@ const siteConfig = {
     title: "Open Recruitment Panitia KОМЕТ",
     favicon: "img/favicon.ico",
     countdown: {
-        targetDate: "2025-05-30T00:00:00",
-        endMessage: "Time Is Up, See You Next Time",
+        targetDate: "2025-06-07T00:00:00",
+        endMessage: "Close of Registration",
         units: {
             days: "Hari",
             hours: "Jam",
@@ -12,7 +12,7 @@ const siteConfig = {
         },
     },
     pdf: {
-        link: "",
+        link: "https://bit.ly/OprecPanitiaKOMETXXV",
         label: "REGISTER",
     },
     social: {
@@ -31,11 +31,7 @@ const siteConfig = {
         github: {
             url: "https://github.com/ave.zoor",
             title: "GitHub",
-        },
-        website: {
-            url: "https://github.com/ave.zoor",
-            title: "Website",
-        },
+        }
     },
 };
 

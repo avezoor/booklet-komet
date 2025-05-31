@@ -1,18 +1,19 @@
-<h1 style="text-align: center;">DIVISI DAN JOBDESC</h1>
+<h1 style="text-align: center;">DATA AND ADMINISTRATION OFFICER (Daminoff)</h1>
 
-<h2 style="text-align: center;">EVENT CONKEPTOR</h2>
+Bertanggung jawab mengelola seluruh data peserta dan panitia, membantu Sekretaris mengelola persuratan eksternal, pengarsipan dokumen, penyusunan absensi, hingga pengadaan sertifikat dan penghargaan untuk para finalis dan juri. Berikut rincian tugas dari divisi *Daminoff*:
 
-Bertanggung jawab mengonsepkan dan mengatur segala hal yang
-berkaitan dengan rangkaian kegiatan. Berikut rincian mengenai
-jobdesc dari divisi Event Conceptor.
+1. Dapat bertanggung jawab dan berkomitmen tinggi.  
+2. Melakukan pendataan dan membuat *database* peserta KOMET XXV secara rapi dan terstruktur.  
+3. Mengelompokkan peserta berdasarkan kategori lomba dan sekolah, serta mengelola kontak untuk koordinasi teknis.  
+4. Mengelola data panitia dan menyusun absensi pada setiap rapat dan pelaksanaan kegiatan (termasuk untuk *LO (Liaison Officer)* dan pengawas).  
+5. Menyiapkan dan mendistribusikan sertifikat (peserta, panitia, juri, mitra *kerjasama*) dan penghargaan lainnya seperti trofi, medali dan *merchandise*.  
+6. Berkoordinasi dengan Sekretaris untuk mengurus persuratan eksternal, termasuk surat undangan, surat keputusan, surat *kerja sama*, dan lainnya.  
+7. Menyusun *guidebook* dan teknis acara, bekerjasama dengan divisi *A-Team* dan *Vimed*.  
+8. Membuat grup komunikasi peserta dan mengelola komunikasi informasi teknis, terutama menjelang dan selama pelaksanaan lomba.  
+9. Menyusun kebutuhan anggaran dan *timeline* kegiatan divisi dengan rinci, serta mengelola pembaruan sesuai kebutuhan acara.  
+10. Berkoordinasi secara aktif dengan Ketua Pelaksana, *SC (Steering Committee)*, dan *CO (Coordinator)* divisi untuk menjamin kelancaran acara.  
 
-1. Dapat bertanggung jawab dan berkomitmen tinggi.
-2. Membuat konsep acara (tema, tempat pelaksanaan, rundown, jargon) secara detail dan spesifik, memuat waktu, acara, personilin charge, perlengkapan, dan tempat.
-3. Membuat TOR (Term of Reference) pemateri seminar.
-4. Berkoordinasi dengan seluruh divisi terkait penentuan tugas acara.
-5. Mengatur dan mengondisikan jalannya acara.
-6. Mencari dan menetapkan pengisi maupun pemateri acara.
-7. Membentuk LO (Liaison Officer) dan pengawas yang bertugas mendampingi dan mengawasi peserta olimpiade mendekati hari H hingga hari Panitiaan kegiatan.
-8. Membuat dan merincikan dana keperluan divisi serta timeline kegiatan divisi.
-9. Bertanggung jawab kepada Ketua Panitia dan berkoordinasi dengan SC terkait.
-10. Bertanggung jawab terhadap CO divisi.
+**Subdivisi tersedia:**
+- *Administrasi*  
+- *Layanan Peserta*  
+- *Fasilitator*

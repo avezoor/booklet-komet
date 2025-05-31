@@ -1,18 +1,18 @@
-<h1 style="text-align: center;">DIVISI DAN JOBDESC</h1>
+<h1 style="text-align: center;">PARTNERSHIP (PS)</h1>
 
-<h2 style="text-align: center;">EVENT CONKEPTOR</h2>
+Bertanggung jawab dalam menjalin relasi dan kerjasama strategis dengan pihak eksternal (sekolah, organisasi mitra, media dan *community partner*), serta memastikan penyebaran informasi acara efektif secara menyeluruh. Berikut rincian tugas dari divisi *Partnership*:
 
-Bertanggung jawab mengonsepkan dan mengatur segala hal yang
-berkaitan dengan rangkaian kegiatan. Berikut rincian mengenai
-jobdesc dari divisi Event Conceptor.
+1. Dapat bertanggung jawab dan berkomitmen tinggi.  
+2. Memperbaharui dan mengelompokkan data sekolah yang menjadi sasaran.  
+3. Berkoordinasi dengan panitia regional atau lokal dalam mendistribusikan informasi dan menjangkau sekolah, baik melalui *WhatsApp*, *email*, atau *media sosial* resmi, untuk menyampaikan informasi dan menjawab pertanyaan seputar acara.  
+4. Membuat sistem pendataan dan pelacakan distribusi informasi, termasuk daftar sekolah yang sudah dihubungi dan status konfirmasi keikutsertaan.  
+5. Berkoordinasi dengan divisi lainnya untuk menyusun dan menyebarkan surat undangan dan *pamflet* acara, baik secara *daring* (*email*, *media sosial*, *WhatsApp*) maupun *luring* (kunjungan ke sekolah).  
+6. Mencari dan merekap data-data pendukung dalam promosi, hingga menjalin kerjasama dengan pihak eksternal, termasuk *medpart*, *compart*, *MGMP*, *OSIS* sekolah, dan *IKAHIMATIKA* untuk memublikasikan acara.  
+7. Mengelola komunikasi dan hubungan baik dengan mitra, menjaga keaktifan komunikasi hingga pelaksanaan acara.  
+8. Menyusun kebutuhan anggaran dan *timeline* kegiatan divisi dengan rinci, serta mengelola pembaruan sesuai kebutuhan acara.  
+9. Berkoordinasi secara aktif dengan Ketua Pelaksana, *SC (Steering Committee)*, dan *CO (Coordinator)* divisi untuk menjamin kelancaran acara.  
 
-1. Dapat bertanggung jawab dan berkomitmen tinggi.
-2. Membuat konsep acara (tema, tempat pelaksanaan, rundown, jargon) secara detail dan spesifik, memuat waktu, acara, personilin charge, perlengkapan, dan tempat.
-3. Membuat TOR (Term of Reference) pemateri seminar.
-4. Berkoordinasi dengan seluruh divisi terkait penentuan tugas acara.
-5. Mengatur dan mengondisikan jalannya acara.
-6. Mencari dan menetapkan pengisi maupun pemateri acara.
-7. Membentuk LO (Liaison Officer) dan pengawas yang bertugas mendampingi dan mengawasi peserta olimpiade mendekati hari H hingga hari Panitiaan kegiatan.
-8. Membuat dan merincikan dana keperluan divisi serta timeline kegiatan divisi.
-9. Bertanggung jawab kepada Ketua Panitia dan berkoordinasi dengan SC terkait.
-10. Bertanggung jawab terhadap CO divisi.
+**Subdivisi tersedia:**
+- *Public Relation*  
+- *Promosi*  
+- *Publikasi*

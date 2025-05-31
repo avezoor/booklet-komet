@@ -8,8 +8,10 @@
 
 <h2 style="text-align: center;">BENEFIT</h2>
 
-1. 🌐 Memperluas Relasi  
-2. 📈 Personal Development  
-3. 🧭 Leadership Development  
-4. 📄 Sertifikat Kepanitian  
-5. 🆓 Akses Full Free Rangkaian Kegiatan  
+1. Mengembangkan soft skills
+2. Melatih rasa tanggung jawab dan jiwa kepemimpinan
+3. Memperluas Relasi dan Networking
+4. Menambah pengalaman
+5. Memperkuat portofolio
+6. Sertifikat kepanitiaan
+

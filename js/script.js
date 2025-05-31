@@ -43,15 +43,14 @@ document.addEventListener("DOMContentLoaded", function () {
         "pages/p2-timeline.md",
         "pages/p3-ketentuan.md",
         "pages/p4-benefit.md",
+        "pages/p5-divisi-ec.md",
+        "pages/p5-divisi-vm.md",
         "pages/p5-divisi-at.md",
         "pages/p5-divisi-dao.md",
-        "pages/p5-divisi-ec.md",
-        "pages/p5-divisi-fr.md",
         "pages/p5-divisi-ps.md",
-        "pages/p5-divisi-vm.md",
+        "pages/p5-divisi-fr.md",
         "pages/p6-pendaftaran.md",
-        "pages/p7-contact-person.md",
-        "src/launch.md"
+        "pages/p7-contact-person.md"
     ];
 
     // Configure marked.js to preserve LaTeX

@@ -1,18 +1,25 @@
-<h1 style="text-align: center;">DIVISI DAN JOBDESC</h1>
+<h1 style="text-align: center;">FUNDRAISING (FR)</h1>
 
-<h2 style="text-align: center;">EVENT CONKEPTOR</h2>
+Bertanggung jawab dalam merancang, menjalin, dan mengelola kerja sama *sponsorship* untuk mendukung pendanaan dan kebutuhan teknis acara, juga bertanggung jawab atas transparansi, komunikasi, dan evaluasi hasil kerja sama dengan mitra sponsor. Berikut rincian tugas dari divisi *Fundraising*:
 
-Bertanggung jawab mengonsepkan dan mengatur segala hal yang
-berkaitan dengan rangkaian kegiatan. Berikut rincian mengenai
-jobdesc dari divisi Event Conceptor.
+1. Dapat bertanggung jawab dan berkomitmen tinggi.  
+2. Merancang dan menyusun *proposal sponsorship* KOMET XXV secara menarik, informatif, dan profesional.  
+3. Melakukan riset dan perencanaan sumber pendanaan eksternal, menyusun daftar target sponsor potensial (perusahaan nasional/lokal, institusi pendidikan, *brand* alat tulis, teknologi, minuman, dsb).  
+4. Menghubungi dan mempresentasikan *proposal* kepada sponsor, baik melalui *email*, *WhatsApp*, maupun kunjungan langsung.  
+5. Menyusun dan menegosiasikan bentuk *benefit sponsorship*.  
+6. Menjalin relasi jangka panjang dengan sponsor dan menjaga komunikasi yang baik dan profesional.  
+7. Bekerja sama dengan Sekretaris untuk membuat dan mengarsipkan dokumen kerja sama sponsor (*MoU*, surat pernyataan, dsb).  
+8. Mendata dan mengelola pemasukan dari sponsor, serta menyusun laporan pertanggungjawaban untuk internal maupun pihak sponsor.  
+9. Merancang, menjalankan, dan mengevaluasi kegiatan dana usaha (*danus*), seperti penjualan *merchandise*, makanan/minuman, *bazar*, atau *campaign* lainnya.  
+10. Mengembangkan ide kreatif dan inovatif dalam penggalangan dana berbasis usaha mandiri yang relevan dengan target pasar acara.  
+11. Menyusun sistem kerja yang efisien dalam pelaksanaan *danus* (termasuk stok, keuangan, SDM, dan promosi).  
+12. Mengelola jasa internal (misalnya: *jasa titip*, *pre-order* barang, penjualan *slot promosi* UKM, dll) yang dapat menjadi sumber pendanaan tambahan.  
+13. Membuat laporan pemasukan dan pengeluaran *danus* dan jasa secara transparan dan akuntabel.  
+14. Menyusun kebutuhan anggaran dan *timeline* kegiatan divisi dengan rinci, serta mengelola pembaruan sesuai kebutuhan acara.  
+15. Berkoordinasi secara aktif dengan Ketua Pelaksana, *SC (Steering Committee)*, dan *CO (Coordinator)* divisi untuk menjamin kelancaran acara.  
 
-1. Dapat bertanggung jawab dan berkomitmen tinggi.
-2. Membuat konsep acara (tema, tempat pelaksanaan, rundown, jargon) secara detail dan spesifik, memuat waktu, acara, personilin charge, perlengkapan, dan tempat.
-3. Membuat TOR (Term of Reference) pemateri seminar.
-4. Berkoordinasi dengan seluruh divisi terkait penentuan tugas acara.
-5. Mengatur dan mengondisikan jalannya acara.
-6. Mencari dan menetapkan pengisi maupun pemateri acara.
-7. Membentuk LO (Liaison Officer) dan pengawas yang bertugas mendampingi dan mengawasi peserta olimpiade mendekati hari H hingga hari Panitiaan kegiatan.
-8. Membuat dan merincikan dana keperluan divisi serta timeline kegiatan divisi.
-9. Bertanggung jawab kepada Ketua Panitia dan berkoordinasi dengan SC terkait.
-10. Bertanggung jawab terhadap CO divisi.
+**Divisi Tersedia:**
+- *Sponsorship*  
+- *Danus*  
+- *Topup aplikasi* dan *Layanan Isi Kuisioner*  
+- *Paid Promote*
