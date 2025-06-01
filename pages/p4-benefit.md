@@ -1,10 +1,8 @@
 <h1 style="text-align: center;">RANGKAIAN KEGIATAN</h1>
-
-<h2 style="text-align: center;">Olimpiade Matematika</h2>
-<p style="text-align: center;">
-    Olimpiade berskala <strong>nasional</strong> untuk seluruh pelajar tingkat <strong>SMA/SMK/MA/MAK/Sederajat</strong>.
-</p>
-
+<ul>
+    <li>Perlombaan inti : OLIMPIADE MATEMATIKA (Olimpiade berskala nasional untuk seluruh pelajar tingkat SMA/SMK/MA/MAK/Sederajat)</li>
+    <li>Perlombaan pendukung : Lomba Desain dan Essay (Kompetisi kreatif untuk kalangan umum dengan rentang usia 16 – 23 tahun yang terdiri dari dua kategori, yaitu desain dan essay)</li>
+</ul>
 
 <h2 style="text-align: center;">BENEFIT</h2>
 

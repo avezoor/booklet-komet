@@ -2,6 +2,6 @@
 
 | **Tahapan**                 | **Timeline**                    |
 |------------------------------|--------------------------------|
-| Pembukaan Pendaftaran (Registration)        | 3 - 7 Juni 2025               |
-| Pelaksanaan Interview | 8 - 9 Juni 2025             |
-| Pengumuman Panitia | 10 Juni 2025             |
+| Pembukaan Pendaftaran (Registration)        | 3 - 8 Juni 2025               |
+| Pelaksanaan Interview | 9 - 10 Juni 2025             |
+| Pengumuman Panitia | 11 Juni 2025             |
