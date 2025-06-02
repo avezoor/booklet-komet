@@ -16,7 +16,7 @@ Bertanggung jawab dalam merancang, menjalin, dan mengelola kerja sama *sponsorsh
 12. Mengelola jasa internal (misalnya: *jasa titip*, *pre-order* barang, penjualan *slot promosi* UKM, dll) yang dapat menjadi sumber pendanaan tambahan.  
 13. Membuat laporan pemasukan dan pengeluaran *danus* dan jasa secara transparan dan akuntabel.  
 14. Menyusun kebutuhan anggaran dan *timeline* kegiatan divisi dengan rinci, serta mengelola pembaruan sesuai kebutuhan acara.  
-15. Berkoordinasi secara aktif dengan Ketua Pelaksana, *SC (Steering Committee)*, dan *CO (Coordinator)* divisi untuk menjamin kelancaran acara.  
+15. Berkoordinasi secara aktif dengan Ketua Pelaksana, *DS (Divisional Supervisor)*, dan *CO (Coordinator)* divisi untuk menjamin kelancaran acara.  
 
 **Divisi Tersedia:**
 - *Sponsorship*  

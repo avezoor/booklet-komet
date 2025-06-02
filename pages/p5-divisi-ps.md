@@ -10,7 +10,7 @@ Bertanggung jawab dalam menjalin relasi dan kerjasama strategis dengan pihak eks
 6. Mencari dan merekap data-data pendukung dalam promosi, hingga menjalin kerjasama dengan pihak eksternal, termasuk *medpart*, *compart*, *MGMP*, *OSIS* sekolah, dan *IKAHIMATIKA* untuk memublikasikan acara.  
 7. Mengelola komunikasi dan hubungan baik dengan mitra, menjaga keaktifan komunikasi hingga pelaksanaan acara.  
 8. Menyusun kebutuhan anggaran dan *timeline* kegiatan divisi dengan rinci, serta mengelola pembaruan sesuai kebutuhan acara.  
-9. Berkoordinasi secara aktif dengan Ketua Pelaksana, *SC (Steering Committee)*, dan *CO (Coordinator)* divisi untuk menjamin kelancaran acara.  
+9. Berkoordinasi secara aktif dengan Ketua Pelaksana, *DS (Divisional Supervisor)*, dan *CO (Coordinator)* divisi untuk menjamin kelancaran acara.  
 
 **Subdivisi tersedia:**
 - *Public Relation*  

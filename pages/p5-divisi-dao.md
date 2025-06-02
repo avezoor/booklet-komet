@@ -11,7 +11,7 @@ Bertanggung jawab mengelola seluruh data peserta dan panitia, membantu Sekretari
 7. Menyusun *guidebook* dan teknis acara, bekerjasama dengan divisi *A-Team* dan *Vimed*.  
 8. Membuat grup komunikasi peserta dan mengelola komunikasi informasi teknis, terutama menjelang dan selama pelaksanaan lomba.  
 9. Menyusun kebutuhan anggaran dan *timeline* kegiatan divisi dengan rinci, serta mengelola pembaruan sesuai kebutuhan acara.  
-10. Berkoordinasi secara aktif dengan Ketua Pelaksana, *SC (Steering Committee)*, dan *CO (Coordinator)* divisi untuk menjamin kelancaran acara.  
+10. Berkoordinasi secara aktif dengan Ketua Pelaksana, *DS (Divisional Supervisor)*, dan *CO (Coordinator)* divisi untuk menjamin kelancaran acara.  
 
 **Subdivisi tersedia:**
 - *Administrasi*  

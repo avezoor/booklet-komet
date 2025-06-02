@@ -9,10 +9,9 @@ Bertanggung jawab atas perencanaan, pengembangan konsep, dan pengawasan teknis s
 5. Mencari dan menetapkan pengisi suara.  
 6. Membentuk dan mengoordinasikan *LO (Liaison Officer)* serta pengawas untuk mendampingi dan mengawasi peserta olimpiade mendekati hari H hingga hari pelaksanaan kegiatan.  
 7. Menyusun kebutuhan anggaran dan *timeline* kegiatan divisi dengan rinci, serta mengelola pembaruan sesuai kebutuhan acara.  
-8. Berkoordinasi secara aktif dengan Ketua Pelaksana, *SC (Steering Committee)*, dan *CO (Coordinator)* divisi untuk menjamin kelancaran acara.  
+8. Berkoordinasi secara aktif dengan Ketua Pelaksana, *DS (Divisional Supervisor)*, dan *CO (Coordinator)* divisi untuk menjamin kelancaran acara.  
 
 **Subdivisi tersedia:**
 - *Operasional Acara*  
 - *Koordinator Tampilan*  
 - *Pendampingan peserta*  
-- *Manajemen divisi*

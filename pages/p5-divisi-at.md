@@ -10,7 +10,7 @@ Bertanggung jawab atas pengawasan mutu soal, pelaksanaan teknis olimpiade (*alur
 6. Bekerjasama dengan divisi *Vimed* untuk bertanggung jawab atas penggunaan *system digital* lomba, termasuk pengelolaan *Sibiti*, *setup teknis* di *Zoom*, juga *troubleshooting teknis* saat lomba berlangsung.  
 7. Bertanggung jawab dalam peminjaman tempat pelaksanaan olimpiade, termasuk mengisi *logbook* kegiatan dan menyusun *berita acara* pelaksanaan olimpiade.  
 8. Menyusun kebutuhan anggaran dan *timeline* kegiatan divisi dengan rinci, serta mengelola pembaruan sesuai kebutuhan acara.  
-9. Berkoordinasi secara aktif dengan Ketua Pelaksana, *SC (Steering Committee)*, dan *CO (Coordinator)* divisi untuk menjamin kelancaran acara.  
+9. Berkoordinasi secara aktif dengan Ketua Pelaksana, *DS (Divisional Supervisor)*, dan *CO (Coordinator)* divisi untuk menjamin kelancaran acara.  
 
 **Subdivisi tersedia:**
 - *Validasi Soal*  

@@ -11,7 +11,7 @@ Bertanggung jawab dalam pengelolaan media publikasi, dokumentasi, desain visual,
 7. Bertanggung jawab atas *live streaming* ketika kegiatan berlangsung, serta menentukan *operator*.  
 8. Berkoordinasi dengan tim *IT* dan divisi lainnya untuk memastikan semua konten sesuai konteks acara dan teknis pelaksanaannya.  
 9. Menyusun kebutuhan anggaran dan *timeline* kegiatan divisi dengan rinci, serta mengelola pembaruan sesuai kebutuhan acara.  
-10. Berkoordinasi secara aktif dengan Ketua Pelaksana, *SC (Steering Committee)*, dan *CO (Coordinator)* divisi untuk menjamin kelancaran acara.  
+10. Berkoordinasi secara aktif dengan Ketua Pelaksana, *DS (Divisional Supervisor)*, dan *CO (Coordinator)* divisi untuk menjamin kelancaran acara.  
 
 **Subdivisi tersedia:**
 - *Videografi dan Content Creative*  
