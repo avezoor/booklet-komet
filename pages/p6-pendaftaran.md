@@ -1,7 +1,7 @@
 <h1 style="text-align: center;">Mari Berkontribusi dan Berkarya di KOMET XXV!</h1>
 
 <div style="text-align: center; margin: 20px 0;">
-  <a href="https://bit.ly/OprecPanitiaKOMETXXV" target="_blank" style="
+  <a href="https://forms.gle/EfNh9bT43L6oH7Vx5" target="_blank" style="
     display: inline-block;
     background: linear-gradient(135deg, #1E90FF, #007BFF);
     color: white;
@@ -15,12 +15,6 @@
     Register
   </a>
 </div>
-
-<p style="text-align: center; font-size: 18px; font-weight: 600;">OR</p>
-
-<div style="text-align: center; margin-top: 20px;">
-  <img weight="180" width="180" src="/img/qr.jpg" alt="QR Code Pendaftaran">
-  <p style="font-size: 14px; color: #fff;">Scan QR untuk daftar melalui HP</p>
 
 <p style="text-align: center; font-size: 18px; font-weight: 600;">COME AND JOIN US!!!</p>
 </div>
