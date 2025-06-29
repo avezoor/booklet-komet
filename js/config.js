@@ -2,7 +2,7 @@ const siteConfig = {
     title: "Open Recruitment Panitia KОМЕТ",
     favicon: "img/favicon.ico",
     countdown: {
-        targetDate: "2025-06-08T00:00:00",
+        targetDate: "2025-07-08T00:00:00",
         endMessage: "Closed",
         units: {
             days: "Hari",
@@ -12,7 +12,7 @@ const siteConfig = {
         },
     },
     web: {
-        link: "https://bit.ly/OprecPanitiaKOMETXXV",
+        link: "https://forms.gle/EfNh9bT43L6oH7Vx5",
         label: "REGISTER",
     },
     social: {
