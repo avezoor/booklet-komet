@@ -8,7 +8,7 @@
         Himpunan Mahasiswa Program Studi "Integral" Matematika<br>
         Universitas Islam Negeri Maulana Malik Ibrahim Malang<br>
     </p>
-    <p class="cover-update-date">Update: 1 Juni 2025</p>
+    <p class="cover-update-date">Update: 1 Juli 2025</p>
 </div>
 
 
