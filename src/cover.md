@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">BOOKLET</h1>
-<h2 style="text-align: center;">Open Recruitment Panitia KОМЕТ XXV</h2>
+<h2 style="text-align: center;">Open Internship Panitia KОМЕТ XXV</h2>
 <div class="komet-cover">
     <div id="countdown-timer" class="countdown-display">
   <!-- Countdown will be inserted here by JavaScript -->
@@ -8,7 +8,7 @@
         Himpunan Mahasiswa Program Studi "Integral" Matematika<br>
         Universitas Islam Negeri Maulana Malik Ibrahim Malang<br>
     </p>
-    <p class="cover-update-date">Update: 1 Juli 2025</p>
+    <p class="cover-update-date">Update: 15 September 2025</p>
 </div>
 
 
