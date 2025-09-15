@@ -2,7 +2,7 @@ const siteConfig = {
     title: "Open Recruitment Panitia KОМЕТ",
     favicon: "img/favicon.ico",
     countdown: {
-        targetDate: "2025-07-08T00:00:00",
+        targetDate: "2025-09-19T00:00:00",
         endMessage: "Closed",
         units: {
             days: "Hari",
